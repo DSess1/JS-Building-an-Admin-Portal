@@ -27,3 +27,5 @@ function renderBook(book) {
                     li.append(input, saveBtn)
                     root.append(li)
      }
+     main()
+     
